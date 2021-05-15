@@ -9,6 +9,7 @@
   --yellow: #fff159;
   --blue: #3483fa;
   --green: #39b54a;
+  --transition: ease-in-out 300ms;
 }
 
 * {
