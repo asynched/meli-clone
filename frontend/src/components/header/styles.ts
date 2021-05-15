@@ -7,7 +7,7 @@ export const HeaderWrapper = styled.header`
   flex-direction: column;
   align-items: center;
 
-  box-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.125);
+  box-shadow: 0 0.125rem 0.125rem rgba(0, 0, 0, 0.05);
 
   .top-container {
     padding: 0.5rem 0;
